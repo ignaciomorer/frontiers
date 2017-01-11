@@ -1,0 +1,293 @@
+nodedef>name VARCHAR,label VARCHAR
+Gabii , Gabii
+Alba , Alba
+Roma Palatino , Roma Palatino
+Roma Campidoglio , Roma Campidoglio
+C. Coedra , C. Coedra
+Crustumerium , Crustumerium
+Satricum , Satricum
+Astura , Astura
+Cis. Latina , Cis. Latina
+Fidenae , Fidenae
+Gallicano , Gallicano
+Valmontone , Valmontone
+Corcolle , Corcolle
+Lavinium , Lavinium
+Velletri , Velletri
+Tivoli , Tivoli
+Ficana , Ficana
+Palestrina , Palestrina
+S. Giovanni in C. , S. Giovanni in C.
+M. Giove , M. Giove
+C. Fragola , C. Fragola
+Montecelio , Montecelio
+Colonna , Colonna
+Anzio , Anzio
+Poli Bola , Poli Bola
+Guadagnolo , Guadagnolo
+Tuscolo , Tuscolo
+Marino , Marino
+Ariccia , Ariccia
+C. Fico , C. Fico
+C. Savelli , C. Savelli
+M. Morra , M. Morra
+Buon Riposo , Buon Riposo
+T.S. Anastasio , T.S. Anastasio
+F. Cupo , F. Cupo
+C. Vescovo , C. Vescovo
+M.S. Angelo A. , M.S. Angelo A.
+M. Savello , M. Savello
+B. Sabotino , B. Sabotino
+M. Carnale , M. Carnale
+F. Bottaccia , F. Bottaccia
+Albano L. , Albano L.
+Porta Neola , Porta Neola
+M. Cavo , M. Cavo
+C. Fuori , C. Fuori
+Castelgandolfo , Castelgandolfo
+Ficulea A. , Ficulea A.
+Passerano , Passerano
+Castellaccio , Castellaccio
+C. Ripoli , C. Ripoli
+Ardea A. , Ardea A.
+M. Artemisio , M. Artemisio
+C. Tasso , C. Tasso
+M. Ferrari , M. Ferrari
+C. Cimino , C. Cimino
+M. Crescenzio , M. Crescenzio
+S. Preziosa , S. Preziosa
+M. Ariano , M. Ariano
+M. Cucco , M. Cucco
+C. Perna , C. Perna
+T. Caldara , T. Caldara
+Grottaferrata S.V. , Grottaferrata S.V.
+La Pasolina , La Pasolina
+P. Tulliano , P. Tulliano
+M. Arcese , M. Arcese
+Paluzzi , Paluzzi
+V. Riserve N. , V. Riserve N.
+C. Licia , C. Licia
+V. Maldura , V. Maldura
+P. Caiano , P. Caiano
+Palazzolo , Palazzolo
+P. Carpino , P. Carpino
+V. Violata B , V. Violata B
+Camposelva , Camposelva
+Pescaccio , Pescaccio
+Marino C. , Marino C.
+Coste Caselle , Coste Caselle
+Ostia A. , Ostia A.
+Tivoli V.P. , Tivoli V.P.
+S. Pastore , S. Pastore
+Le Caprine , Le Caprine
+P. Corte , P. Corte
+Nettuno , Nettuno
+Bosco Nettuno , Bosco Nettuno
+Acciarella , Acciarella
+La Fibbia , La Fibbia
+Quartaccio , Quartaccio
+Q. Capanna , Q. Capanna
+Finocchierelle , Finocchierelle
+Stop 4 La Banca , Stop 4 La Banca
+Pelliccione , Pelliccione
+Monteripoli , Monteripoli
+C. Ripoli bis , C. Ripoli bis
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+Roma Palatino,V. Maldura,17.4555190498
+Roma Palatino,Roma Campidoglio,0.577534232886
+Roma Palatino,Ficulea A.,16.1152036526
+Roma Palatino,Tuscolo,21.3108248356
+Roma Palatino,Lavinium,25.2877967016
+Roma Palatino,La Pasolina,22.3914424906
+Roma Palatino,Ficana,14.6815540859
+Roma Palatino,Gabii,19.2761872902
+Roma Palatino,C. Perna,14.0302123524
+Roma Palatino,C. Licia,18.345189515
+Roma Palatino,C. Savelli,16.7990330436
+Roma Palatino,Ardea A.,31.4671807409
+Montecelio,F. Cupo,4.61171863963
+Montecelio,Crustumerium,16.919771864
+Montecelio,Le Caprine,4.30044559298
+Montecelio,M. Morra,7.35115453178
+Montecelio,Tivoli,7.50201213085
+C. Fico,T.S. Anastasio,10.2326200043
+C. Fico,Camposelva,9.34949947598
+C. Fico,Ardea A.,0.633132690692
+Buon Riposo,M. Giove,9.56589919108
+Buon Riposo,Satricum,13.1051860026
+Buon Riposo,F. Bottaccia,2.07056377083
+Buon Riposo,Ardea A.,7.31527714521
+Porta Neola,C. Tasso,1.43214448234
+Porta Neola,Corcolle,1.46098388449
+Porta Neola,Tivoli V.P.,0.478684921589
+Porta Neola,Tivoli,6.05274773332
+C. Cimino,V. Violata B,1.30630271727
+C. Cimino,S. Preziosa,0.677111092157
+C. Cimino,Marino C.,1.71918799167
+S. Pastore,F. Cupo,6.54656590665
+La Fibbia,Q. Capanna,0.907605232388
+La Fibbia,Astura,2.13756209769
+Finocchierelle,Pelliccione,2.28348184811
+Finocchierelle,Anzio,7.26012800033
+Finocchierelle,Bosco Nettuno,3.36869219061
+Castelgandolfo,Albano L.,1.84234644963
+Castelgandolfo,M. Cucco,0.961430579229
+Castelgandolfo,C. Perna,16.2924582884
+Quartaccio,Q. Capanna,0.572860096506
+Quartaccio,B. Sabotino,1.53968966807
+Satricum,Bosco Nettuno,6.44629915422
+Satricum,Cis. Latina,12.4029185994
+Satricum,Acciarella,7.62563958285
+Satricum,M. Giove,18.3185820132
+Satricum,Velletri,19.4955630547
+La Pasolina,Tuscolo,4.72310728855
+La Pasolina,Gabii,7.21796080339
+La Pasolina,C. Fuori,7.08146164685
+Marino,C. Licia,1.50992394706
+Marino,P. Carpino,2.58750758239
+Marino,P. Corte,1.32547821671
+Marino,M. Crescenzio,1.15837285061
+Marino,Marino C.,1.51928847556
+F. Bottaccia,Anzio,11.7738278107
+Tivoli,Monteripoli,2.19341955983
+Tivoli,Tivoli V.P.,5.60534024997
+Tivoli,M. Morra,7.27722794701
+Tivoli,C. Tasso,6.80963700043
+Valmontone,M. Artemisio,12.2496580727
+Valmontone,C. Fragola,8.18205513835
+Valmontone,C. Vescovo,11.0907260765
+Valmontone,C. Coedra,10.4880463521
+Valmontone,Velletri,15.1914833901
+C. Ripoli bis,M. Arcese,1.10721322468
+C. Ripoli bis,C. Ripoli,0.452645843711
+C. Perna,V. Riserve N.,10.0937967638
+C. Perna,Ficana,8.98403847209
+C. Perna,Lavinium,11.6570636957
+Castellaccio,C. Fuori,2.76286029394
+Castellaccio,P. Caiano,2.89488517385
+Castellaccio,Tuscolo,7.74943824028
+Castellaccio,C. Fragola,4.50212029788
+Castellaccio,Poli Bola,7.02291534735
+Castellaccio,M. Ariano,3.61702735374
+Castellaccio,V. Violata B,10.5288512706
+Guadagnolo,S. Giovanni in C.,8.60656292169
+Guadagnolo,M.S. Angelo A.,9.02190272271
+Guadagnolo,Palestrina,8.83253348929
+Palazzolo,Passerano,7.24607011295
+Palazzolo,C. Fuori,4.36939057775
+Palazzolo,Gallicano,4.18627617781
+Palazzolo,Colonna,5.80857687008
+Palazzolo,Poli Bola,7.2808970466
+Palazzolo,Palestrina,5.8281344635
+Tivoli V.P.,C. Tasso,1.80878533193
+M. Savello,Albano L.,1.41041124248
+M. Savello,C. Licia,5.33492274763
+M. Savello,M. Giove,7.04479492051
+M. Savello,Ardea A.,14.7914852631
+M. Savello,Lavinium,14.7440580534
+Ariccia,Albano L.,1.98699471871
+Ariccia,M. Giove,6.59149348738
+Ariccia,Velletri,9.33589770601
+Ariccia,Alba,1.48657842876
+Ariccia,Ardea A.,16.1134309448
+M. Cucco,M. Crescenzio,0.933289085712
+Poli Bola,C. Fuori,5.75271224236
+Poli Bola,C. Fragola,6.69613916363
+Poli Bola,Cis. Latina,19.8878564621
+Poli Bola,Palestrina,5.98821271495
+P. Caiano,M. Ariano,2.91863226418
+P. Caiano,Marino C.,7.72509327759
+M. Giove,Cis. Latina,14.8866710133
+M. Giove,Velletri,10.2880784612
+M. Giove,Ardea A.,10.9260769217
+Ficulea A.,Fidenae,11.2756740066
+Ficulea A.,Roma Campidoglio,16.0314093697
+Ficulea A.,Grottaferrata S.V.,19.5903073124
+Ficulea A.,Crustumerium,10.5135127209
+Ficulea A.,M. Carnale,3.51873948252
+Ficulea A.,F. Cupo,5.04299503211
+Ficulea A.,Gabii,10.3229185231
+Ficulea A.,C. Savelli,19.1672655809
+Tuscolo,Grottaferrata S.V.,1.9458258496
+Tuscolo,Colonna,5.1340590467
+Tuscolo,Gabii,10.724828285
+Lavinium,Ficana,18.3147008757
+Lavinium,Camposelva,3.752542923
+Lavinium,Ardea A.,7.9046223268
+C. Licia,V. Maldura,1.72196530358
+C. Licia,M. Crescenzio,0.955385593055
+C. Licia,S. Preziosa,1.27097185754
+Crustumerium,Fidenae,5.68412475415
+Crustumerium,M. Carnale,10.4207905437
+Nettuno,Anzio,1.96904554369
+Nettuno,Bosco Nettuno,4.34056479109
+Astura,Acciarella,3.34696908467
+Astura,Stop 4 La Banca,1.59614784153
+F. Cupo,Le Caprine,1.36743644325
+Colonna,Passerano,6.53203330335
+Colonna,C. Fuori,6.86371257057
+Colonna,Gallicano,6.75000395969
+Colonna,Gabii,7.19175515849
+Palestrina,Passerano,10.899301257
+Palestrina,C. Fuori,8.14662105022
+Palestrina,Gallicano,7.05952921943
+C. Fuori,C. Fragola,6.3220863703
+C. Fragola,C. Vescovo,3.03569404501
+C. Fragola,M. Ariano,3.2842797096
+C. Vescovo,M. Ariano,0.680754072771
+C. Vescovo,M. Artemisio,1.16042079616
+Monteripoli,C. Ripoli,0.950558119167
+Corcolle,C. Tasso,2.12333386738
+Corcolle,Passerano,2.37835525901
+Corcolle,Gabii,4.15874943469
+Corcolle,M.S. Angelo A.,5.29648553881
+P. Tulliano,Grottaferrata S.V.,1.55347775823
+P. Tulliano,V. Maldura,2.69615613417
+P. Tulliano,V. Violata B,0.675669006458
+P. Corte,P. Carpino,1.42541385403
+P. Corte,Coste Caselle,0.846820078597
+P. Corte,Marino C.,0.48943406968
+Ostia A.,V. Riserve N.,11.2397634015
+Ostia A.,Ficana,5.2101268004
+V. Maldura,S. Preziosa,0.795111225944
+V. Maldura,C. Savelli,1.39904915644
+C. Coedra,Cis. Latina,9.54914924484
+C. Coedra,M. Ferrari,7.45336954787
+C. Coedra,Velletri,6.01775680297
+B. Sabotino,Q. Capanna,1.35888671862
+Albano L.,Alba,2.39914848685
+C. Savelli,Grottaferrata S.V.,3.40834329816
+C. Savelli,Roma Campidoglio,17.3103356181
+C. Savelli,Gabii,12.2145314105
+M. Arcese,M.S. Angelo A.,1.02835043697
+Le Caprine,C. Tasso,7.73414355624
+Le Caprine,M. Carnale,4.56341243187
+Le Caprine,Gabii,10.325299319
+M.S. Angelo A.,S. Giovanni in C.,4.92342949366
+T.S. Anastasio,T. Caldara,3.31049801483
+Pelliccione,Stop 4 La Banca,1.6888999032
+Paluzzi,Alba,2.09301810416
+M. Ferrari,Velletri,3.45074417004
+M. Ferrari,M. Artemisio,2.18976808258
+M. Ferrari,Pescaccio,6.60507345743
+Gallicano,Passerano,3.84708927451
+Gallicano,Gabii,8.58405890818
+Gallicano,S. Giovanni in C.,2.20614957235
+Anzio,T. Caldara,4.76692357058
+C. Tasso,Gabii,3.94624200889
+Roma Campidoglio,Ficana,14.8730913013
+Roma Campidoglio,Fidenae,9.09027822095
+M. Cavo,P. Carpino,2.00799898089
+M. Cavo,Pescaccio,1.78952982385
+Passerano,S. Giovanni in C.,4.19462490248
+Passerano,Gabii,4.99094764756
+Marino C.,V. Violata B,1.22443496046
+Fidenae,Gabii,19.2867853613
+M. Crescenzio,Coste Caselle,1.6842187092
+M. Ariano,M. Artemisio,1.29977089358
+Pescaccio,Alba,1.63116414349
+Pescaccio,P. Carpino,1.61572218724
+V. Riserve N.,Camposelva,8.41016738607
+V. Riserve N.,Ficana,11.3636716247
+Cis. Latina,Velletri,9.33604814531
+P. Carpino,Coste Caselle,1.75052222705
