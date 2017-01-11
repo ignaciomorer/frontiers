@@ -1,0 +1,269 @@
+nodedef>name VARCHAR,label VARCHAR
+Roma , Roma
+Sito EUR , Sito EUR
+Gabii , Gabii
+Ardea , Ardea
+Alba , Alba
+P. Mammolo , P. Mammolo
+Ficulea , Ficulea
+S.M. Mole , S.M. Mole
+Crustumerium , Crustumerium
+Satricum , Satricum
+Cis. Latina , Cis. Latina
+Fidenae , Fidenae
+Gallicano , Gallicano
+M. Giul. , M. Giul.
+Valmontone , Valmontone
+C. Capobianco , C. Capobianco
+Corcolle , Corcolle
+Lavinium , Lavinium
+R. Priora C. , R. Priora C.
+Bovillae , Bovillae
+Velletri , Velletri
+Tivoli , Tivoli
+Lunghezza , Lunghezza
+Ficana , Ficana
+Palestrina , Palestrina
+T. Torrino , T. Torrino
+Tellenae , Tellenae
+S. Giovanni in C. , S. Giovanni in C.
+R. Massima , R. Massima
+M. Giove , M. Giove
+Antemnae , Antemnae
+M. Fiore , M. Fiore
+S. Angelo R. , S. Angelo R.
+Montecelio , Montecelio
+Colonna , Colonna
+Anzio , Anzio
+Lanuvio , Lanuvio
+Poli Bola , Poli Bola
+Tuscolo , Tuscolo
+Marino , Marino
+C. Rotondo , C. Rotondo
+C.S. Stefano , C.S. Stefano
+Ariccia , Ariccia
+C. Fico , C. Fico
+C. Decima , C. Decima
+T. Trafusa , T. Trafusa
+Buon Riposo , Buon Riposo
+T.S. Anastasio , T.S. Anastasio
+C. Vescovo , C. Vescovo
+R.S. Paolo , R.S. Paolo
+M.S. Angelo A. , M.S. Angelo A.
+C. Lepre , C. Lepre
+M. Carnale , M. Carnale
+Buglioncino , Buglioncino
+Porta Neola , Porta Neola
+F. Ostiense , F. Ostiense
+M. Cavo , M. Cavo
+Castelgandolfo , Castelgandolfo
+Passerano , Passerano
+T. Cenci , T. Cenci
+C. Fiorito , C. Fiorito
+Trigoria , Trigoria
+C. Ripoli , C. Ripoli
+La Rustica , La Rustica
+M. Artemisio , M. Artemisio
+C. Boccone , C. Boccone
+M. Ferrari , M. Ferrari
+C. Redicicoli 2 , C. Redicicoli 2
+M. Ariano , M. Ariano
+A.A. Laurentina , A.A. Laurentina
+C. Cesarano , C. Cesarano
+M. Arcese , M. Arcese
+C. Bruciato , C. Bruciato
+Le Caprine , Le Caprine
+Cretarossa , Cretarossa
+Pelliccione , Pelliccione
+Monteripoli , Monteripoli
+C. Ripoli bis , C. Ripoli bis
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+Montecelio,Le Caprine,4.30044559298
+Montecelio,S. Angelo R.,3.02273878273
+Montecelio,Tivoli,7.50201213085
+C. Boccone,P. Mammolo,3.49762852361
+C. Boccone,Roma,6.324021671
+C. Boccone,C. Capobianco,7.20661448497
+C. Boccone,Antemnae,2.78251532305
+C. Fico,T.S. Anastasio,10.2326200043
+C. Fico,Buglioncino,7.85659048926
+C. Fico,Ardea,1.19495226593
+C. Fico,Lavinium,8.35249079758
+T. Torrino,A.A. Laurentina,4.291775615729628
+T. Torrino,T. Cenci,3.63461634812604
+T. Torrino,Ficana,5.8894502157513395
+T. Torrino,Sito EUR,4.389231081656558
+Tellenae,Ardea,18.1950571427
+Tellenae,La Rustica,15.3556850579
+Tellenae,Roma,14.4118510092
+Tellenae,Lavinium,14.7324869958
+Tellenae,A.A. Laurentina,8.37755709954
+Tellenae,Gabii,18.0634585912
+Tellenae,Sito EUR,10.717249943
+Tellenae,M. Giove,14.6082082709
+Tellenae,S.M. Mole,2.07307382698
+Palestrina,M. Ariano,13.7974269622
+Palestrina,Colonna,11.6033676935
+Palestrina,Poli Bola,5.98821271495
+Palestrina,M. Fiore,11.6793290808
+Palestrina,Gallicano,7.05952921943
+T. Trafusa,C. Decima,3.78130668094
+T. Trafusa,T. Cenci,1.29821027848
+T. Trafusa,Ficana,5.38422825448
+Buglioncino,T.S. Anastasio,3.10678687523
+Buglioncino,Buon Riposo,4.65851290406
+Buglioncino,Ardea,8.42683950442
+Buglioncino,C. Rotondo,2.95135055784
+Monteripoli,C. Ripoli bis,0.525477273276
+Monteripoli,Tivoli,2.19341955983
+M. Artemisio,M. Ariano,1.29977089358
+M. Artemisio,M. Ferrari,2.18976808258
+M. Artemisio,Valmontone,12.2496580727
+M. Artemisio,C. Vescovo,1.16042079616
+M. Cavo,Alba,3.30119458247
+M. Cavo,Marino,4.58920853882
+M.S. Angelo A.,C.S. Stefano,2.23716243999
+M.S. Angelo A.,S. Giovanni in C.,4.92342949366
+M.S. Angelo A.,M. Arcese,1.02835043697
+Poli Bola,Valmontone,3.15136881079
+Poli Bola,Colonna,12.1368066016
+Poli Bola,Gallicano,10.8592407818
+Poli Bola,R. Massima,12.4619599692
+Poli Bola,M. Fiore,8.59095679746
+M. Fiore,R. Priora C.,2.49368169369
+M. Fiore,Tuscolo,6.06777032009
+M. Fiore,Marino,10.0275477575
+M. Fiore,M. Ariano,4.08350206245
+M. Fiore,S. Giovanni in C.,13.2294673566
+Le Caprine,C. Lepre,1.94668666429
+Le Caprine,M. Carnale,4.56341243187
+Le Caprine,Tivoli,7.60443856272
+S. Giovanni in C.,R. Priora C.,11.7717323522
+S. Giovanni in C.,Passerano,4.19462490248
+S. Giovanni in C.,Gallicano,2.20614957235
+C. Bruciato,Ardea,14.7465033497
+C. Bruciato,Ariccia,3.7661839735
+C. Bruciato,Castelgandolfo,2.39662293721
+C. Bruciato,Trigoria,13.7132871507
+C. Bruciato,Lavinium,14.6408195484
+C. Bruciato,M. Giove,8.22930191203
+C. Bruciato,Bovillae,2.58823597129
+C.S. Stefano,Corcolle,3.06676662683
+C.S. Stefano,Tivoli,5.09033532146
+Fidenae,Crustumerium,5.68412475415
+Fidenae,C. Redicicoli 2,1.63643131721
+Fidenae,Antemnae,3.92624681469
+Castelgandolfo,Ariccia,3.45986314448
+Castelgandolfo,Tuscolo,7.73377118046
+Castelgandolfo,Bovillae,2.09042584179
+Castelgandolfo,C. Decima,17.084428806
+Ardea,Buon Riposo,6.95300798459
+Ardea,A.A. Laurentina,22.3802103435
+Ardea,Lavinium,8.09677999137
+Ardea,M. Giove,10.2048825512
+M. Ariano,C. Vescovo,0.680754072771
+Ficana,Lavinium,18.3147008757
+R. Massima,Cis. Latina,11.0353287463
+R. Massima,Valmontone,10.7955639719
+R. Massima,Velletri,12.3010227152
+Tuscolo,Colonna,5.1340590467
+Tuscolo,R. Priora C.,4.21115408833
+Tuscolo,La Rustica,15.7616145591
+Tuscolo,Lunghezza,14.5571653623
+Tuscolo,Alba,7.98681865564
+Tuscolo,Gabii,10.724828285
+Tuscolo,Marino,5.64655356475
+Tuscolo,Roma,21.3071523559
+Tuscolo,Bovillae,8.46247733261
+Satricum,Buon Riposo,13.1051860026
+Satricum,Anzio,12.3388548084
+Satricum,Cis. Latina,12.4029185994
+Satricum,Lanuvio,19.0282920441
+Satricum,Pelliccione,9.44189266372
+Satricum,M. Giove,18.3185820132
+C. Ripoli,M. Arcese,0.689473313004
+C. Ripoli,C. Ripoli bis,0.452645843711
+Lunghezza,La Rustica,5.76258330415
+Lunghezza,C. Cesarano,6.09633906271
+Lunghezza,P. Mammolo,7.57215826906
+Lunghezza,Gabii,5.44963335826
+Lunghezza,C. Lepre,6.05843023211
+Lunghezza,Ficulea,5.36067931667
+Lunghezza,Bovillae,19.0850996416
+P. Mammolo,La Rustica,2.44256152188
+P. Mammolo,C. Capobianco,5.78815941769
+P. Mammolo,Roma,8.37759156182
+P. Mammolo,Ficulea,7.81541707608
+C. Cesarano,C. Lepre,4.63651904778
+C. Cesarano,Tivoli,6.27395001005
+C. Cesarano,C. Fiorito,2.52632968608
+Marino,M. Ferrari,10.2706891792
+Marino,Bovillae,2.83378097899
+Lavinium,Trigoria,8.85992397842
+T.S. Anastasio,Anzio,7.76738989937
+T.S. Anastasio,C. Rotondo,1.50781432981
+R.S. Paolo,F. Ostiense,1.73702261339
+R.S. Paolo,Roma,3.30574987339
+M. Carnale,Ficulea,3.51873948252
+M. Carnale,Crustumerium,10.4207905437
+M. Carnale,S. Angelo R.,5.71171129603
+Porta Neola,C. Fiorito,0.59739425517
+Porta Neola,Gabii,4.88904008402
+S.M. Mole,Bovillae,3.42713908359
+Tivoli,C. Fiorito,6.32840938337
+Tivoli,C. Lepre,8.22312051612
+Pelliccione,Cretarossa,5.09945315408
+C. Lepre,Gabii,8.69045880483
+C. Lepre,Ficulea,4.64478545128
+Valmontone,Cis. Latina,19.6840456612
+Valmontone,C. Vescovo,11.0907260765
+Valmontone,Velletri,15.1914833901
+Buon Riposo,Anzio,13.791489671
+Buon Riposo,M. Giove,9.56589919108
+F. Ostiense,Gabii,21.0120171233
+F. Ostiense,Sito EUR,1.23402167154
+Antemnae,Roma,5.60593604109
+La Rustica,C. Capobianco,6.7217170235
+La Rustica,A.A. Laurentina,15.4821791915
+La Rustica,Roma,9.69727552816
+La Rustica,Ficulea,7.61552358829
+La Rustica,Bovillae,17.5857242922
+Crustumerium,S. Angelo R.,14.5176698946
+Crustumerium,C. Capobianco,7.54056255902
+Lanuvio,Cis. Latina,12.6466481362
+Lanuvio,M. Giove,4.23607927746
+Lanuvio,Velletri,6.2210857344
+Lanuvio,Ariccia,5.06465511299
+T. Cenci,C. Decima,3.23686671796
+C. Fiorito,Corcolle,1.63276303563
+C. Fiorito,Gabii,4.47440190581
+C. Capobianco,C. Redicicoli 2,6.06016202367
+C. Capobianco,Ficulea,3.582475883
+Cis. Latina,M. Giove,14.8866710133
+Cis. Latina,Velletri,9.33604814531
+Passerano,Colonna,6.53203330335
+Passerano,Corcolle,2.37835525901
+Passerano,Gallicano,3.84708927451
+Passerano,Gabii,4.99094764756
+Trigoria,A.A. Laurentina,7.3981231755
+Trigoria,C. Decima,1.95578883609
+Gabii,Gallicano,8.58405890818
+Gabii,Colonna,7.19175515849
+Gabii,Sito EUR,21.8208648574
+Gabii,Roma,19.2661492133
+Gabii,Corcolle,4.15874943469
+Gabii,Bovillae,17.1982563565
+M. Giul.,Velletri,6.01693537577
+Roma,Colonna,22.7544225659
+Roma,Bovillae,18.9661645935
+Ariccia,Velletri,9.33589770601
+Ariccia,Alba,1.48657842876
+Ariccia,M. Giove,6.59149348738
+Ariccia,M. Ferrari,7.53077102809
+Cretarossa,Anzio,4.52830358966
+Velletri,M. Ferrari,3.45074417004
+M. Ferrari,Alba,6.89645505539
+A.A. Laurentina,Sito EUR,3.26529811023
+Colonna,R. Priora C.,4.61980834121
+Colonna,Gallicano,6.75000395969
+Anzio,C. Rotondo,7.28499195575
