@@ -15,6 +15,22 @@ def real_distance(G,node1,node2):
     km = 6367 * c
     return km
 
+def sort_distance_matrix(G):
+    D = {}
+    for node1 in G.nodes():
+        aux=[]
+        for node2 in G.nodes():
+            if node1==node2:
+                d= 0
+            else:
+                d = real_distance(G,node1,node2)
+            aux+=[(d,node2)]
+            #D[i]+=[d]
+        aux=sorted(aux)
+        D[node1]=aux
+
+    return D
+
 def distance_matrix(G):
     D = []
     for i in range(len(G.nodes())):
